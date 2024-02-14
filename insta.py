@@ -31,13 +31,13 @@ except:
 api_id = 22303739 # ایپی ایدی
 api_hash = '30469e1e7251f3cea5c4d619890e371c' # ایپی هش
 bot_token = '6868068266:AAFTlVYaEjvGa8T-0ssVHXD3qgyhQrgGYD8' #توکن ربات
-channel = "@x" #یورزنیم چنل با @
+channel = "@nft_sell_box" #یورزنیم چنل با @
 botuser = "Keepaccountrobot" #یوزرنیم ربات بدون @
 addurl = f"http://telegram.me/{botuser}?startgroup=new" #دست نزنید
 support = "@mycode4plus" #ایدی پشتیبانی با @
 gp = f"/start@{botuser}" #دستور استارت در گروه
 gph = f"/help@{botuser}" #دستور راهنما در گروه
-admin = 6387230485 #ايدي عددي ادمين
+admin = 6574781108 #ايدي عددي ادمين
 bot1 = "on" #خاموش و روشني ربات
 offtxt = "کاربر گرامي ربات فعلا خارج از دسترس ميباشد" #متن خاموشي ربات
 coin = 1 #سکه مورد نياز براي دانلود
